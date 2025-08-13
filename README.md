@@ -65,10 +65,3 @@ supply-chain-optimization/
 
 For detailed documentation, please see the `docs/` directory.
 
-## 🤝 Contributing
-
-Issues and Pull Requests are welcome!
-
-## 📄 License
-
-MIT License
